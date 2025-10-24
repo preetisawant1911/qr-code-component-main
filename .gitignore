@@ -13,4 +13,11 @@
 
 # Avoid your project being littered with annoying .DS_Store files!
 .DS_Store
+<<<<<<< HEAD
 .prettierignore
+=======
+
+# Avoid uploading Prettier ignore file
+.prettierignore
+
+>>>>>>> 80ec2883bcb697dfcb6e4d7c85e8f4b6ce1563b1

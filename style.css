@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Google Font */
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
@@ -47,4 +48,59 @@ body {
 .card p {
   font-size: 0.875rem;
   color: #7b879d;
+=======
+/* Base styles */
+body {
+  font-family: 'Outfit', sans-serif;
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  flex-direction: column;
+}
+
+/* Card container */
+.card {
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 20px;
+  padding: 1rem;
+  width: 320px;
+  text-align: center;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+/* QR image */
+.card img {
+  width: 100%;
+  border-radius: 10px;
+}
+
+/* Heading */
+.card h1 {
+  font-size: 1.4rem;
+  font-weight: 700;
+  color: hsl(218, 44%, 22%);
+  margin: 1rem 0 0.5rem;
+}
+
+/* Paragraph */
+.card p {
+  font-size: 1rem;
+  font-weight: 400;
+  color: hsl(220, 15%, 55%);
+  margin-bottom: 1rem;
+}
+
+/* Attribution */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+>>>>>>> 80ec2883bcb697dfcb6e4d7c85e8f4b6ce1563b1
 }

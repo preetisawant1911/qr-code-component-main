@@ -1,8 +1,9 @@
-# QR Code Component – Bootstrap Refactor
+
+# # QR Code Component – Bootstrap Refactor
 
 This is a refactored version of the QR Code Component challenge from Frontend Mentor.
 
-Live Site(https://preetisawant1911.github.io/qr-code-bootstrap-refactor/)
+🔗 [Live Site](https://preetisawant1911.github.io/qr-code-bootstrap-refactor/)
 
 ## Built With
 - HTML
